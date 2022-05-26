@@ -1,6 +1,8 @@
 ��#� �w�e�b�
 �
 �
+
+
 En aquest exercici he posat en pràctica les comandes bàsiques de Git.
 - git init
 - git add -A
